@@ -113,10 +113,6 @@ The workflow consists of:
 - Using the trained model to recognize faces in new inputs
 - Recording attendance in Excel spreadsheets
 
-## Research Paper
-
-The implementation is based on the research paper:
-[CNN-Based End-to-End Face Recognition System](https://ieeexplore.ieee.org/document/9029001)
 
 ## License
 
