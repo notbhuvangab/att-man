@@ -39,3 +39,6 @@ ENV/
 /images/
 /output/
 /attendance/
+
+# Large model files
+/20180402-114759/
